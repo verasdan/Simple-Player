@@ -4,7 +4,7 @@
 var play = false;
 
 //Cria o componente de áudio especificando a URL
-var audio = new Audio('asset/audio/track-tribe.mp3');
+var audio = new Audio('assets/audio/track-tribe.mp3');
 
 document.querySelector('#play').addEventListener('click', () => {
 
